@@ -43,6 +43,19 @@ Cons:
 
 Avalanche addresses the need for financial services, blockchain environments with custom rules, and applications, while solving the problem of scalability that Ethereum users face with Dapp development. Avalanche offers all the dev tools available on the Ethereum network, is compatible with the EVM, and provides scalability, flexibility, and decentralized governance for all users.
 
+## Other notes 
+
+- “Subnets are powerful, reliable and secure private or public blockchains built as offshoots to the core Avalanche platform,” John Wu, president of Ava Labs
+- The Primary Subnet consists of 3 blockchains currently, the X-Chain, P-Chain and the C-Chain
+- ![image](https://user-images.githubusercontent.com/49690101/155844781-e05a0169-0149-4439-a10d-4447d79b1fff.png)
+- ![image](https://user-images.githubusercontent.com/49690101/155844793-96920d89-86fc-4253-9a40-9a86a2aa2497.png)
+- ![image](https://user-images.githubusercontent.com/49690101/155844795-b0f9afbd-764f-4972-94fc-0bfbd415cec8.png)
+- ![image](https://user-images.githubusercontent.com/49690101/155844811-a7e0b6f7-a3fc-4cb4-a3b2-1ec3e43b7258.png)
+- ![image](https://user-images.githubusercontent.com/49690101/155844824-65c03bae-cf53-45ed-88b6-88d69612b305.png)
+
+
+
+
 ## Sources
 
 - https://docs.avax.network/learn/platform-overview/avalanche-consensus/
